@@ -1,0 +1,43 @@
+/* Add this CSS to your style.css file */
+
+body {
+    background-color: #f8f9fa; /* Set background color */
+}
+
+.container-fluid {
+    background-color: #343a40; /* Set header background color */
+}
+
+h1 {
+    color: #fff; /* Set header text color */
+}
+
+.container {
+    margin-top: 50px; /* Adjust margin from the top */
+}
+
+.form-control {
+    border: 1px solid #ced4da; /* Set input border color */
+}
+
+.btn-primary {
+    background-color: #ff0055; /* Set button background color */
+    border: 1px solid #007bff; /* Set button border color */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Set button background color on hover */
+    border: 1px solid #0056b3; /* Set button border color on hover */
+}
+
+.form-check-input {
+    margin-top: 0.2rem; /* Adjust radio button and checkbox alignment */
+}
+
+a {
+    color: #ff00ea; /* Set link color */
+}
+
+a:hover {
+    color: #0056b3; /* Set link color on hover */
+}
